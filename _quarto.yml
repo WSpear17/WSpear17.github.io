@@ -3,14 +3,16 @@ project:
   output-dir: docs
 
 website:
-  description: "A blog built with Quarto"
   title: "Watsons E-portfolio"
+  
 navbar:
-  right:
-  - text: Home
+  left:
+  - text: index.home
     href: index.qmd
+    
   - text: Projects
     href: Projects.qmd
+    
   - text: Resume
     href: Resume.qmd
 format:
