@@ -1,11 +1,9 @@
 ---
-title: "resume.qmd"
+title: "Resume.qmd"
 ---
 
-<iframe width="800" height="1040" src="WSResume.pdf">
+<iframe width="800" height="1040" src="WRSResume.pdf">
 
 </iframe>
 
 ------------------------------------------------------------------------
-
-s
