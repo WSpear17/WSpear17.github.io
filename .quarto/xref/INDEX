@@ -16,5 +16,11 @@
   },
   "about.qmd": {
     "about.html": "fde5f9d1"
+  },
+  "posts/Data Visualization/index.qmd": {
+    "index.html": "2a5c040c"
+  },
+  "posts/Data Visualization/dataVisualization.qmd": {
+    "dataVisualization.html": "254eb43e"
   }
 }
